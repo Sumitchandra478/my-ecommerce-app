@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Slim Fit Denim Jeans",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "description": "Classic blue denim jeans with perfect fit and comfort"
+    },
+    {
+      "name": "Floral Summer Dress",
+      "price": 59.99,
+      "image": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/28thAugVirgio2070.jpg?v=1726140159",
+      "description": "Light and breezy floral print dress perfect for summer"
+    },
+    {
+      "name": "Cotton Casual Shirt",
+      "price": 45.99,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSbN_Av8MPW-I_tFR0H08MHK4Y3NNZzF80xV1fi6cs6U3IuDbyZhrkX6_5tHYUvI1oQQHnyQKbHobyuWlOGanPTyPnLrtX0RDVWKPs79FIAPh911N5tKClNOw&usqp=CAE",
+      "description": "Comfortable cotton shirt for everyday wear"
+    },
+    {
+      "name": "Embroidered Kurti",
+      "price": 65.99,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRyp9_V8u5dn7Gn6ueVWCFii7SZwTCfKbgmw6AlVS1e-UhdvvJ8wYQBW8UQ3vXnH0WZbhcLimvR2SuUOHuJhKsUgEzpJiQ9k2XbxPU6GD_T7whuOWtVL4XgTA",
+      "description": "Traditional kurti with beautiful embroidery work"
+    },
+    {
+      "name": "Cropped Tank Top",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd",
+      "description": "Stylish cropped top perfect for summer layering"
+    },
+    {
+      "name": "Printed Maxi Dress",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1",
+      "description": "Long flowing maxi dress with elegant print"
+    },
+    {
+      "name": "Denim Jacket",
+      "price": 99.99,
+      "image": "https://images.unsplash.com/photo-1527016021513-b09758b777bd",
+      "description": "Classic denim jacket with modern styling"
+    },
+    {
+      "name": "Palazzo Pants",
+      "price": 55.99,
+      "image": "https://images.unsplash.com/photo-1577900232427-18219b9166a0",
+      "description": "Wide-leg palazzo pants with comfortable fit"
+    },
+    {
+      "name": "Graphic T-Shirt",
+      "price": 25.99,
+      "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a",
+      "description": "Cool graphic print t-shirt for casual wear"
+    },
+    {
+      "name": "Formal Blazer",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea",
+      "description": "Professional blazer for formal occasions"
+    },
+    {
+      "name": "Pleated Skirt",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa",
+      "description": "Elegant pleated skirt with flowing design"
+    },
+    {
+      "name": "Printed Kurti Set",
+      "price": 85.99,
+      "image": "https://sigmatrends.com/cdn/shop/products/WhatsAppImage2023-09-18at17.51.54_2.jpg?v=1695050197&width=1445",
+      "description": "Complete kurti set with matching bottom wear"
+    },
+    {
+      "name": "Linen Shirt",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10",
+      "description": "Breathable linen shirt for summer comfort"
+    },
+    {
+      "name": "Denim Shorts",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09",
+      "description": "Casual denim shorts for warm weather"
+    },
+    {
+      "name": "Summer Top",
+      "price": 35.99,
+      "image": "https://static.toiimg.com/thumb/msid-82706642,imgsize-218160,width-400,resizemode-4/82706642.jpg",
+      "description": "Light and stylish top for summer season"
+    }
+  ]
+

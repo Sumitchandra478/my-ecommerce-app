@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.carouselContainer {
+  position: relative;
+  width: 100%;
+  height: 330px;
+  overflow: hidden;
+  z-index:10;
+  /* margin-top:-4.2em; */
+
+}
+.myProduct{
+  position: absolute;
+  z-index: 50;
+  left:27em;
+ top:3.2em;
+  width:300px;
+color:blue;
+font-weight: bold;
+  width:18%;
+  background-color: #efefef;
+ 
+}
+.dropdown{
+  position: absolute;
+  z-index: 30;
+  left:60em;
+  top:-0.3em;
+  width:300px;
+  background-color: #efefef;
+
+}
+.dropdown-btn{
+ all:unset;
+ color:blue
+
+}
+.carouselImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+/* Slide Out (to left) */
+.slideOut {
+  animation: slideout 2s ease-in-out forwards;
+ 
+}
+
+/* Slide In (from right) */
+.slideIn {
+  animation: slideIn 2s ease-in-out forwards;
+ 
+}
+
+
+
+
+.carouselText{
+  position: relative;
+  width:100%;
+  height:100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.liveSale{
+  z-index:5;
+  position:relative;
+  /* background-color: rgba(10, 156, 240, 0.8); */
+  background-color:aqua;
+  width:23%;
+ text-align: center;
+ letter-spacing: 0.1em;
+ color:#333;
+ animation:fadein 1s ease-in-out infinite alternate;
+ text-transform: uppercase;
+ border-radius:10px;
+}
+
+@keyframes fadein{
+  from{
+    opacity:0;
+  }
+  to{
+    opacity: 1;
+  }
+}
+
+
+.textDiscount{
+  letter-spacing: 0.2em;
+  color:#fff;
+  background-color: goldenrod;
+  animation:flyingBoth 8s ease-in-out infinite;
+}
+
+@keyframes flyingBoth {
+  0% {
+    transform: translateX(130%);  
+  }
+ 
+  100% {
+    transform: translateX(-130%);
+    
+  }
+}
+
+
+/* .dropdown {
+  position: relative;
+  width:100%;
+  height:100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+} */
+
+

@@ -1,0 +1,379 @@
+[
+    {
+      "name": "Ceramic Vase Set",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d",
+      "description": "Set of 3 minimalist ceramic vases in neutral tones"
+    },
+    {
+      "name": " Wall Hanging",
+      "price": 39.99,
+      "image": "https://m.media-amazon.com/images/I/41vAEy99pZL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Handcrafted bohemian macramé wall art"
+    },
+    {
+      "name": "Scented Candle Set",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59",
+      "description": "Set of 3 aromatherapy candles in glass jars"
+    },
+    {
+      "name": "Decorative Mirror",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013",
+      "description": "Round gold-framed wall mirror with decorative edge"
+    },
+    {
+      "name": "Pillow Collection",
+      "price": 5.99,
+      "image": "https://m.media-amazon.com/images/I/61TMO6jCCxL.jpg",
+      "description": "Set of 4 coordinated decorative throw pillows"
+    },
+    {
+      "name": "Table Centerpiece",
+      "price": 45.99,
+      "image": "https://images.unsplash.com/photo-1602028915047-37269d1a73f7",
+      "description": "Elegant glass and metal table centerpiece"
+    },
+    {
+      "name": "Wall Clock",
+      "price": 69.99,
+      "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c",
+      "description": "Modern minimalist wall clock with wooden frame"
+    },
+    {
+      "name": "Photo Frame Set",
+      "price": 42.99,
+      "image": "https://artstreet.in/cdn/shop/files/61Q46qy3LLL._SX522_522x522.jpg?v=1686979748",
+      "description": "Set of 5 matching photo frames in various sizes"
+    },
+    {
+      "name": "Artificial Plant",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411",
+      "description": "Realistic artificial potted plant in ceramic pot"
+    },
+    {
+      "name": "Bookend Set",
+      "price": 35.99,
+      "image": "https://images.meesho.com/images/products/409773139/d0wpt_1200.jpg",
+      "description": "Decorative metal bookends with geometric design"
+    },
+    {
+      "name": "Wall Art Canvas",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1571624436279-b272aff752b5",
+      "description": "Abstract canvas wall art in contemporary style"
+    },
+    {
+      "name": "Decorative Tray",
+      "price": 38.99,
+      "image": "https://house2home.co.in/wp-content/uploads/2022/07/Mirror-Tray-Tray-Gold-Tray-Spike-Tray-Rythm-Tray-Metal-Tray-Decorative-Tray-Home-Decor-Decorative-Gift-house2home-5.jpeg",
+      "description": "Mirrored decorative tray with ornate handles"
+    },
+    {
+      "name": "String Lights",
+      "price": 4.99,
+      "image": "https://images.meesho.com/images/products/442564737/gojmj_1200.jpg",
+      "description": "Warm white LED string lights for indoor decoration"
+    },
+    {
+      "name": "Floating Shelves",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2",
+      "description": "Set of 3 wooden floating wall shelves"
+    },
+    {
+      "name": "Table Runner",
+      "price": 28.99,
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+      "description": "Embroidered table runner with tassels"
+    },
+    {
+      "name": "Decorative Bowl",
+      "price": 32.99,
+      "image": "https://m.media-amazon.com/images/I/71oOnUWPsPL._AC_UF894,1000_QL80_.jpg",
+      "description": "Hand-painted ceramic decorative bowl"
+    },
+
+    {
+      "name": "Wireless Bluetooth Headphones",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "description": "Premium noise-canceling headphones with 30-hour battery life"
+    },
+    {
+      "name": "4K Smart TV",
+      "price": 799.99,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQRf-riKUnGzOGiGC8DLr39l9krn5nX7JOo1geZnwPCMghsR5OTNkGxYDt9riKWouaL8WiY9krEGcSzgSHuZNsUt6KCZGuMLszs-ysjhHRzsx9OUBpmxnyh6w",
+      "description": "55-inch 4K Ultra HD Smart LED TV with HDR"
+    },
+    {
+      "name": "Gaming Laptop",
+      "price": 1299.99,
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302",
+      "description": "15.6-inch Gaming Laptop with RGB keyboard"
+    },
+    {
+      "name": "Smartwatch",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a",
+      "description": "Fitness tracking smartwatch with heart rate monitor"
+    },
+    {
+      "name": "Wireless Earbuds",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb",
+      "description": "True wireless earbuds with charging case"
+    },
+    {
+      "name": "Digital Camera",
+      "price": 699.99,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32",
+      "description": "24MP mirrorless camera with 4K video"
+    },
+    {
+      "name": "Gaming Console",
+      "price": 499.99,
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3",
+      "description": "Next-gen gaming console with 1TB storage"
+    },
+    {
+      "name": "Tablet",
+      "price": 449.99,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764",
+      "description": "10.2-inch tablet with retina display"
+    },
+    {
+      "name": "Smart Speaker",
+      "price": 99.99,
+      "image": "https://images.meesho.com/images/products/478685607/zgwro_1200.jpg",
+      "description": "Voice-controlled smart speaker with premium sound"
+    },
+    {
+      "name": "Drone",
+      "price": 899.99,
+      "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f",
+      "description": "4K camera drone with 30-minute flight time"
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "price": 129.99,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4OEViKhVHt7UksuyPFzzTGuBxS2jIWtYDoWpRuM1-T_VAF_SCOizTBSt4BVMzcpUeeMX0wlkn8Sh6yp7CqAKMRjSbjAjGPXJ8k-ypBIzhucQ5AcJEETlc&usqp=CAE",
+      "description": "RGB mechanical gaming keyboard with Cherry MX switches"
+    },
+    {
+      "name": "Ultrawide Monitor",
+      "price": 449.99,
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf",
+      "description": "34-inch curved ultrawide gaming monitor"
+    },
+    {
+      "name": "Wireless Mouse",
+      "price": 79.99,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxIO-1sQJ3QeBP8DfRxMqF1sMNM4hxYpriKPSZbEk9aYLI7cpJriVoK27IMiwfVkIkHVOpsc1vHy5Gu-yhdhlNP_NWgwZUa4wlsmrXPnw9B7cuGPD3Cpc5",
+      "description": "Ergonomic wireless gaming mouse with RGB"
+    },
+    {
+      "name": "External SSD",
+      "price": 159.99,
+      "image": "https://m.media-amazon.com/images/I/41eFUZh+nHL.jpg",
+      "description": "1 TB Portable External Hard Disk Drive - 1TB - 1 Year Warranty"
+    },
+    {
+      "name": "Webcam",
+      "price": 89.99,
+      "image": "https://m.media-amazon.com/images/I/71qnZFqFM9L.jpg",
+      "description": "1080p HD webcam with built-in microphone"
+    },
+    {
+      "name": "Powerbank",
+      "price": 89.99,
+      "image": "https://www.boat-lifestyle.com/cdn/shop/files/mainimage_1500x.png?v=1737116197",
+      "description": "Powerbank with 20000mAh battery, Multiple Ports for Simultaneous Charging"
+    },
+ {
+      "name": "Slim Fit Denim Jeans",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "description": "Classic blue denim jeans with perfect fit and comfort"
+    },
+    {
+      "name": "Floral Summer Dress",
+      "price": 59.99,
+      "image": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/28thAugVirgio2070.jpg?v=1726140159",
+      "description": "Light and breezy floral print dress perfect for summer"
+    },
+    {
+      "name": "Cotton Casual Shirt",
+      "price": 45.99,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSbN_Av8MPW-I_tFR0H08MHK4Y3NNZzF80xV1fi6cs6U3IuDbyZhrkX6_5tHYUvI1oQQHnyQKbHobyuWlOGanPTyPnLrtX0RDVWKPs79FIAPh911N5tKClNOw&usqp=CAE",
+      "description": "Comfortable cotton shirt for everyday wear"
+    },
+    {
+      "name": "Embroidered Kurti",
+      "price": 65.99,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRyp9_V8u5dn7Gn6ueVWCFii7SZwTCfKbgmw6AlVS1e-UhdvvJ8wYQBW8UQ3vXnH0WZbhcLimvR2SuUOHuJhKsUgEzpJiQ9k2XbxPU6GD_T7whuOWtVL4XgTA",
+      "description": "Traditional kurti with beautiful embroidery work"
+    },
+    {
+      "name": "Cropped Tank Top",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd",
+      "description": "Stylish cropped top perfect for summer layering"
+    },
+    {
+      "name": "Printed Maxi Dress",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1",
+      "description": "Long flowing maxi dress with elegant print"
+    },
+    {
+      "name": "Denim Jacket",
+      "price": 99.99,
+      "image": "https://images.unsplash.com/photo-1527016021513-b09758b777bd",
+      "description": "Classic denim jacket with modern styling"
+    },
+    {
+      "name": "Palazzo Pants",
+      "price": 55.99,
+      "image": "https://images.unsplash.com/photo-1577900232427-18219b9166a0",
+      "description": "Wide-leg palazzo pants with comfortable fit"
+    },
+    {
+      "name": "Graphic T-Shirt",
+      "price": 25.99,
+      "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a",
+      "description": "Cool graphic print t-shirt for casual wear"
+    },
+    {
+      "name": "Formal Blazer",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea",
+      "description": "Professional blazer for formal occasions"
+    },
+    {
+      "name": "Pleated Skirt",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa",
+      "description": "Elegant pleated skirt with flowing design"
+    },
+    {
+      "name": "Printed Kurti Set",
+      "price": 85.99,
+      "image": "https://sigmatrends.com/cdn/shop/products/WhatsAppImage2023-09-18at17.51.54_2.jpg?v=1695050197&width=1445",
+      "description": "Complete kurti set with matching bottom wear"
+    },
+    {
+      "name": "Linen Shirt",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10",
+      "description": "Breathable linen shirt for summer comfort"
+    },
+    {
+      "name": "Denim Shorts",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09",
+      "description": "Casual denim shorts for warm weather"
+    },
+    {
+      "name": "Summer Top",
+      "price": 35.99,
+      "image": "https://static.toiimg.com/thumb/msid-82706642,imgsize-218160,width-400,resizemode-4/82706642.jpg",
+      "description": "Light and stylish top for summer season"
+    },
+ {
+      "name": "Ipad",
+      "price": 49.99,
+      "img": "https://i.postimg.cc/GmWSvsY7/ipad.jpg",
+      "description": "Compact and powerful tablet, great for entertainment and productivity on the go."
+    },
+    {
+      "name": "Jeans",
+      "price": 41.99,
+      "img": "https://i.postimg.cc/4d5LCL0q/jeans.jpg",
+      "description": "Stylish and comfortable denim jeans suitable for daily wear."
+    },
+    {
+      "name": "Lightening Decor",
+      "price": 90.99,
+      "img": "https://i.imgur.com/VbkSmTH.jpeg",
+      "description": "Modern lighting decor to brighten up and elevate your room's ambiance."
+    },
+    {
+      "name": "Book",
+      "price": 10.99,
+      "img": "https://i.postimg.cc/bvP9z01h/book.jpg",
+      "description": "A bestselling book to feed your imagination and curiosity."
+    },
+ {
+      "name": "Puma Run gryp Sneakers For Men",
+      "price": 2649,
+      "img": "https://m.media-amazon.com/images/I/71UHiqZNGiL._SY625_.jpg",
+      "description": "Lightweight and stylish sneakers designed for everyday comfort and running."
+    },
+    {
+      "name": "Puma Graviton Pro Casuals For Men",
+      "price": 3599,
+      "img": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/17350726/2025/3/11/7cb4864f-3aaa-4dc6-a2aa-96aba1b1622b1741693653316-Puma-Men-White--Black-Colourblocked-IDP-Sneakers-47517416936-1.jpg",
+      "description": "Trendy casuals perfect for city walks and hangouts with a sporty finish."
+    },
+    {
+      "name": "Puma ST Runner v4 NL Casuals For Men",
+      "price": 2695,
+      "img": "https://images-static.nykaa.com/media/catalog/product/1/c/1cd675fMPMA3525_0.jpg?tr=w-500",
+      "description": "Retro-inspired sneakers with premium comfort and durable outsole."
+    },
+{
+      "name": "CSK Team Yellow Official New MSD Jersey",
+      "price": 695,
+      "img": "https://m.media-amazon.com/images/I/415+-GBhC6L._AC_UY1100_.jpg",
+      "description": "Official CSK jersey in bright yellow, perfect for cheering Dhoni & team."
+    },
+    {
+      "name": "CSK Thala Dhoni Fans Cricket Team",
+      "price": 799,
+      "img": "https://m.media-amazon.com/images/I/511LVAwwyiL._AC_UY1100_.jpg",
+      "description": "Exclusive cricket tee made for Dhoni fans, ideal for match days."
+    },
+    {
+      "name": "Sports New Official Cricket CSK Team Dhoni 7 Jerseys",
+      "price": 395,
+      "img": "https://m.media-amazon.com/images/I/51TNu+KjBUL.jpg",
+      "description": "Affordable jersey with Dhoni’s iconic number 7, a must-have for supporters."
+    },
+    {
+      "name": "Chennai Super Kings 2025 Jersey",
+      "price": 499,
+      "img": "https://www.picclickimg.com/kmgAAOSwa5Nn5U1j/Chennai-Super-Kings-2025-Jersey-Shirt-IPL.webp",
+      "description": "Official CSK 2025 edition jersey made with breathable fabric for fans."
+    },
+
+{
+      "name": "Green Soul Raptor 2.0 Racing Edition Ergonomic Gaming Chair",
+      "price": 12649,
+      "img": "https://m.media-amazon.com/images/I/41LyNxdSDQL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "High back ergonomic chair designed for long hours of gaming or work."
+    },
+    {
+      "name": "Samsung 80 cm (32 inches) HD Ready Smart LED TV",
+      "price": 14990,
+      "img": "https://m.media-amazon.com/images/I/71JQ3kUrR9L._SX679_.jpg",
+      "description": "Smart LED TV with crystal-clear display and built-in apps like Netflix and YouTube."
+    },
+    {
+      "name": "Godrej 6 Kg Front Load Washing Machine",
+      "price": 22790,
+      "img": "https://m.media-amazon.com/images/I/41LekhzESTL._SY445_SX342_QL70_FMwebp_.jpg",
+      "description": "Efficient and energy-saving washing machine with multiple wash modes."
+    }
+
+  ]
+
+
+
+  
+
+
+  
+

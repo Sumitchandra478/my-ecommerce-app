@@ -1,0 +1,68 @@
+.category2{
+    text-align: center;
+    display:flex;
+    justify-content: center;
+   
+
+}
+.parent{
+  
+    width:95%;
+    /* width: 90%; */
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 0 1em; /* Added padding for better mobile experience */
+}
+.category2 h2::after{
+   content:'';
+   display:block;
+   border-bottom:2px solid red;
+   width:24%;
+   margin:0 auto;
+   margin-top:10px;
+   margin-bottom:15px;
+}
+.grid{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:1.1em;  
+}
+
+.common{
+    background:rgba(7, 179, 141, 0.6);
+  /* border:2px dashed lightslategray; */
+  box-shadow: 0px 4px 6px rgba(0,0,0,0.8);
+ border-radius: 10px;
+ padding:1em;
+ text-align: center;
+ font-size: 1em;
+ text-decoration: none;
+ transition: background 2s ease, transform 0.5s ease-in-out;
+
+}
+.common:hover{
+   
+    background:rgba(72, 255, 0,0.3);
+    border:2px solid black;
+    transform:scale(1.05)
+}
+.common img{
+    width:100%;
+    height:auto;
+    margin-top:1em;
+    border-radius:10px;
+    animation:jump1 1s ease-out forwards;
+   
+
+}
+.Sports img{
+    height:185px;
+}
+.common h3{
+    margin:5px 0;
+    padding:0;
+}
+.common p{
+   margin:5px 0;
+    font-weight: bold;
+}

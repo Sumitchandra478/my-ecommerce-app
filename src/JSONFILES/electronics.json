@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Wireless Bluetooth Headphones",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "description": "Premium noise-canceling headphones with 30-hour battery life"
+    },
+    {
+      "name": "4K Smart TV",
+      "price": 799.99,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQRf-riKUnGzOGiGC8DLr39l9krn5nX7JOo1geZnwPCMghsR5OTNkGxYDt9riKWouaL8WiY9krEGcSzgSHuZNsUt6KCZGuMLszs-ysjhHRzsx9OUBpmxnyh6w",
+      "description": "55-inch 4K Ultra HD Smart LED TV with HDR"
+    },
+    {
+      "name": "Gaming Laptop",
+      "price": 1299.99,
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302",
+      "description": "15.6-inch Gaming Laptop with RGB keyboard"
+    },
+    {
+      "name": "Smartwatch",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a",
+      "description": "Fitness tracking smartwatch with heart rate monitor"
+    },
+    {
+      "name": "Wireless Earbuds",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb",
+      "description": "True wireless earbuds with charging case"
+    },
+    {
+      "name": "Digital Camera",
+      "price": 699.99,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32",
+      "description": "24MP mirrorless camera with 4K video"
+    },
+    {
+      "name": "Gaming Console",
+      "price": 499.99,
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3",
+      "description": "Next-gen gaming console with 1TB storage"
+    },
+    {
+      "name": "Tablet",
+      "price": 449.99,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764",
+      "description": "10.2-inch tablet with retina display"
+    },
+    {
+      "name": "Smart Speaker",
+      "price": 99.99,
+      "image": "https://images.meesho.com/images/products/478685607/zgwro_1200.jpg",
+      "description": "Voice-controlled smart speaker with premium sound"
+    },
+    {
+      "name": "Drone",
+      "price": 899.99,
+      "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f",
+      "description": "4K camera drone with 30-minute flight time"
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "price": 129.99,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4OEViKhVHt7UksuyPFzzTGuBxS2jIWtYDoWpRuM1-T_VAF_SCOizTBSt4BVMzcpUeeMX0wlkn8Sh6yp7CqAKMRjSbjAjGPXJ8k-ypBIzhucQ5AcJEETlc&usqp=CAE",
+      "description": "RGB mechanical gaming keyboard with Cherry MX switches"
+    },
+    {
+      "name": "Ultrawide Monitor",
+      "price": 449.99,
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf",
+      "description": "34-inch curved ultrawide gaming monitor"
+    },
+    {
+      "name": "Wireless Mouse",
+      "price": 79.99,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxIO-1sQJ3QeBP8DfRxMqF1sMNM4hxYpriKPSZbEk9aYLI7cpJriVoK27IMiwfVkIkHVOpsc1vHy5Gu-yhdhlNP_NWgwZUa4wlsmrXPnw9B7cuGPD3Cpc5",
+      "description": "Ergonomic wireless gaming mouse with RGB"
+    },
+    {
+      "name": "External SSD",
+      "price": 159.99,
+      "image": "https://m.media-amazon.com/images/I/41eFUZh+nHL.jpg",
+      "description": "1 TB Portable External Hard Disk Drive - 1TB - 1 Year Warranty"
+    },
+    {
+      "name": "Webcam",
+      "price": 89.99,
+      "image": "https://m.media-amazon.com/images/I/71qnZFqFM9L.jpg",
+      "description": "1080p HD webcam with built-in microphone"
+    },
+    {
+      "name": "Powerbank",
+      "price": 89.99,
+      "image": "https://www.boat-lifestyle.com/cdn/shop/files/mainimage_1500x.png?v=1737116197",
+      "description": "Powerbank with 20000mAh battery, Multiple Ports for Simultaneous Charging"
+    }
+  ]
+

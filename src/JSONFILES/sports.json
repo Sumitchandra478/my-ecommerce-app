@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Professional Basketball",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1494199505258-5f95387f933c",
+      "description": "Official size and weight basketball with superior grip"
+    },
+    {
+      "name": "Tennis Racket Pro",
+      "price": 189.99,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSL2fEVy5EJexcYgubNYkw8CaKWSJ5U3nk7adBThgevQYgykCa013j-BwoZnFiS_5S3yz95yLzju4mi8xQHScPAAhafNjNiARJz-O_rlryiEx4cgz8DaTDc",
+      "description": "Professional grade tennis racket with balanced weight distribution"
+    },
+    {
+      "name": "Soccer Ball Elite",
+      "price": 11.99,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRu_zYQ53b-AIegi18jLT80_PcuBft-5P0ZGjwwCljgGOS62bSZ1TDzPCdlxBYs9bUL8nJN27XmySmgLXRM0wuGDqnd7GFVY6Sc_MZ4cXQYQ14yDRqlCsYc2A",
+      "description": "Match quality soccer ball with enhanced durability"
+    },
+    {
+      "name": "Yoga Mat Premium",
+      "price": 45.99,
+      "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f",
+      "description": "Extra thick yoga mat with alignment lines"
+    },
+    {
+      "name": "Adjustable Dumbbell Set",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1638536532686-d610adfc8e5c",
+      "description": "5-50 lbs adjustable dumbbell pair with stand"
+    },
+    {
+      "name": "Running Shoes Elite",
+      "price": 159.99,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "description": "Professional running shoes with advanced cushioning"
+    },
+    {
+      "name": "Cycling Helmet Pro",
+      "price": 8.99,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQMXYboYs6Zk5XNF17GrwBVpZsVN3gcuKXTQzeK2YMmPJX5kiniW43BkvG6fOXSIEx_5KnJCaio7d5Ridcp4K1I612C9aQ-r0Pvj87jdBkxI29aLboC6UbFQw",
+      "description": "Lightweight cycling helmet with adjustable fit system"
+    },
+    {
+      "name": "Swimming Goggles Elite",
+      "price": 4.99,
+      "image": "https://rukminim2.flixcart.com/image/1200/1200/k1qr5ow0/goggle/f/v/m/elite-goggles-aqua-smoke-mfsg-g003aqsm-swimming-goggles-magfit-original-imafh88hgbsw6zab.jpeg",
+      "description": "Anti-fog swimming goggles with UV protection"
+    },
+    {
+      "name": "Boxing Gloves Pro",
+      "price": 9.99,
+      "image": "https://m.media-amazon.com/images/I/81ct92PhT9L.jpg",
+      "description": "Professional boxing gloves with wrist support"
+    },
+    {
+      "name": "Badminton Set Complete",
+      "price": 9.99,
+      "image": "https://images.unsplash.com/photo-1613918431703-aa50889e3be9",
+      "description": "Complete badminton set with rackets and shuttlecocks"
+    },
+    {
+      "name": "Jump Rope Speed",
+      "price": 7.99,
+      "image": "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3",
+      "description": "Adjustable speed rope with ball bearings"
+    },
+    {
+      "name": "Resistance Bands Set",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1598289431512-b97b0917affc",
+      "description": "Set of 5 resistance bands with different strengths"
+    },
+    {
+      "name": "Golf Club Set Premium",
+      "price": 699.99,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQBdzEMsXNUbrT5qlU-WAHv-x50FVgb35c9mwd0KiTSznLQQZgCvuGdkhUj4qCjGl10iF3uSCMcp9FCw3cuQgBHvgqsbLdfAxGHUHEjNoqaw8wiDxvtl4mwQZ8",
+      "description": "Complete set of professional golf clubs with bag"
+    },
+    {
+      "name": "Table Tennis Paddle Pro",
+      "price": 45.99,
+      "image": "https://images.unsplash.com/photo-1609710228159-0fa9bd7c0827",
+      "description": "Professional grade table tennis paddle"
+    },
+    {
+      "name": "Volleyball Official",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1592656094267-764a45160876",
+      "description": "Competition grade volleyball with soft touch"
+    }
+  ]

@@ -1,0 +1,68 @@
+{
+  "You may also like...": [
+    {
+      "name": "Puma Run gryp Sneakers For Men",
+      "price": 2649,
+      "img": "https://m.media-amazon.com/images/I/71UHiqZNGiL._SY625_.jpg",
+      "description": "Lightweight and stylish sneakers designed for everyday comfort and running."
+    },
+    {
+      "name": "Puma Graviton Pro Casuals For Men",
+      "price": 3599,
+      "img": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/17350726/2025/3/11/7cb4864f-3aaa-4dc6-a2aa-96aba1b1622b1741693653316-Puma-Men-White--Black-Colourblocked-IDP-Sneakers-47517416936-1.jpg",
+      "description": "Trendy casuals perfect for city walks and hangouts with a sporty finish."
+    },
+    {
+      "name": "Puma ST Runner v4 NL Casuals For Men",
+      "price": 2695,
+      "img": "https://images-static.nykaa.com/media/catalog/product/1/c/1cd675fMPMA3525_0.jpg?tr=w-500",
+      "description": "Retro-inspired sneakers with premium comfort and durable outsole."
+    }
+  ],
+  "More To Explore...": [
+    {
+      "name": "CSK Team Yellow Official New MSD Jersey",
+      "price": 695,
+      "img": "https://m.media-amazon.com/images/I/415+-GBhC6L._AC_UY1100_.jpg",
+      "description": "Official CSK jersey in bright yellow, perfect for cheering Dhoni & team."
+    },
+    {
+      "name": "CSK Thala Dhoni Fans Cricket Team",
+      "price": 799,
+      "img": "https://m.media-amazon.com/images/I/511LVAwwyiL._AC_UY1100_.jpg",
+      "description": "Exclusive cricket tee made for Dhoni fans, ideal for match days."
+    },
+    {
+      "name": "Sports New Official Cricket CSK Team Dhoni 7 Jerseys",
+      "price": 395,
+      "img": "https://m.media-amazon.com/images/I/51TNu+KjBUL.jpg",
+      "description": "Affordable jersey with Dhoni’s iconic number 7, a must-have for supporters."
+    },
+    {
+      "name": "Chennai Super Kings 2025 Jersey",
+      "price": 499,
+      "img": "https://www.picclickimg.com/kmgAAOSwa5Nn5U1j/Chennai-Super-Kings-2025-Jersey-Shirt-IPL.webp",
+      "description": "Official CSK 2025 edition jersey made with breathable fabric for fans."
+    }
+  ],
+  "Top Selection...": [
+    {
+      "name": "Green Soul Raptor 2.0 Racing Edition Ergonomic Gaming Chair",
+      "price": 12649,
+      "img": "https://m.media-amazon.com/images/I/41LyNxdSDQL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "High back ergonomic chair designed for long hours of gaming or work."
+    },
+    {
+      "name": "Samsung 80 cm (32 inches) HD Ready Smart LED TV",
+      "price": 14990,
+      "img": "https://m.media-amazon.com/images/I/71JQ3kUrR9L._SX679_.jpg",
+      "description": "Smart LED TV with crystal-clear display and built-in apps like Netflix and YouTube."
+    },
+    {
+      "name": "Godrej 6 Kg Front Load Washing Machine",
+      "price": 22790,
+      "img": "https://m.media-amazon.com/images/I/41LekhzESTL._SY445_SX342_QL70_FMwebp_.jpg",
+      "description": "Efficient and energy-saving washing machine with multiple wash modes."
+    }
+  ]
+}

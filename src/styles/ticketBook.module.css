@@ -1,0 +1,124 @@
+.parent {
+    position: relative;
+    width: 93%;
+    margin:0 auto;
+    height: 330px;
+    overflow: hidden;
+    z-index:10;
+    /* margin-top:-4.2em; */
+  
+  }
+  .heading{
+    text-align: center;
+
+  }
+
+
+  .heading::after{
+    content: '';
+    display:block;
+    border-bottom:3px solid red;
+    width:13%;
+    margin:4px auto;
+  }
+
+.carouselImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
+  
+  /* Slide Out (to left) */
+  .slideOut {
+    animation: slideout 1s ease-in-out forwards;
+ 
+  }
+  
+ 
+  .slideIn {
+    animation: slideIn 1s ease-in-out forwards;
+   
+  }
+  
+  @keyframes slideout {
+    from {
+      transform: translateX(0%);
+    
+    }
+    to {
+      transform: translateX(-100%);
+  
+    }
+  }
+  
+  @keyframes slideIn {
+    from {
+      transform: translateX(100%);
+     
+    }
+    to {
+      transform: translateX(0%);
+  
+    }
+  }
+  .indicator{
+    position: absolute;
+    bottom:1.2em;
+    left:50%;
+    
+  }
+
+  /* .dot{
+    width:10px;
+    height:10px;
+    display:inline-block;
+    background-color: white;
+    border: 2px solid black;
+    border-radius:50%;
+    transition:width 1s ease-in-out,border-radius 0.6s ease-in-out, background-color 0.6s ease-in-out;
+  }
+
+  .active{
+    width: 30px;
+    border-radius: 10px;
+    background-color: black;
+  } */
+
+  .dot {
+    position: relative;
+    width: 15px;
+    height: 8px;
+    display: inline-block;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20%;
+    margin: 0 5px;
+    overflow: hidden;
+    transition: width 1s ease-in-out, border-radius 1s ease-in-out;
+  }
+  
+  .dot::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 0;
+    background-color: black;
+    transition: width 1s ease-in-out;
+    z-index: 1;
+  }
+  
+  .active {
+    width: 30px;
+    border-radius: 10px;
+  }
+  
+  .active::before {
+    width: 100%;
+  }
+  

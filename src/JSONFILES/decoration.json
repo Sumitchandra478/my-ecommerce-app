@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Ceramic Vase Set",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d",
+      "description": "Set of 3 minimalist ceramic vases in neutral tones"
+    },
+    {
+      "name": " Wall Hanging",
+      "price": 39.99,
+      "image": "https://m.media-amazon.com/images/I/41vAEy99pZL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Handcrafted bohemian macramé wall art"
+    },
+    {
+      "name": "Scented Candle Set",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59",
+      "description": "Set of 3 aromatherapy candles in glass jars"
+    },
+    {
+      "name": "Decorative Mirror",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013",
+      "description": "Round gold-framed wall mirror with decorative edge"
+    },
+    {
+      "name": "Pillow Collection",
+      "price": 5.99,
+      "image": "https://m.media-amazon.com/images/I/61TMO6jCCxL.jpg",
+      "description": "Set of 4 coordinated decorative throw pillows"
+    },
+    {
+      "name": "Table Centerpiece",
+      "price": 45.99,
+      "image": "https://images.unsplash.com/photo-1602028915047-37269d1a73f7",
+      "description": "Elegant glass and metal table centerpiece"
+    },
+    {
+      "name": "Wall Clock",
+      "price": 69.99,
+      "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c",
+      "description": "Modern minimalist wall clock with wooden frame"
+    },
+    {
+      "name": "Photo Frame Set",
+      "price": 42.99,
+      "image": "https://artstreet.in/cdn/shop/files/61Q46qy3LLL._SX522_522x522.jpg?v=1686979748",
+      "description": "Set of 5 matching photo frames in various sizes"
+    },
+    {
+      "name": "Artificial Plant",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411",
+      "description": "Realistic artificial potted plant in ceramic pot"
+    },
+    {
+      "name": "Bookend Set",
+      "price": 35.99,
+      "image": "https://images.meesho.com/images/products/409773139/d0wpt_1200.jpg",
+      "description": "Decorative metal bookends with geometric design"
+    },
+    {
+      "name": "Wall Art Canvas",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1571624436279-b272aff752b5",
+      "description": "Abstract canvas wall art in contemporary style"
+    },
+    {
+      "name": "Decorative Tray",
+      "price": 38.99,
+      "image": "https://house2home.co.in/wp-content/uploads/2022/07/Mirror-Tray-Tray-Gold-Tray-Spike-Tray-Rythm-Tray-Metal-Tray-Decorative-Tray-Home-Decor-Decorative-Gift-house2home-5.jpeg",
+      "description": "Mirrored decorative tray with ornate handles"
+    },
+    {
+      "name": "String Lights",
+      "price": 4.99,
+      "image": "https://images.meesho.com/images/products/442564737/gojmj_1200.jpg",
+      "description": "Warm white LED string lights for indoor decoration"
+    },
+    {
+      "name": "Floating Shelves",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2",
+      "description": "Set of 3 wooden floating wall shelves"
+    },
+    {
+      "name": "Table Runner",
+      "price": 28.99,
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+      "description": "Embroidered table runner with tassels"
+    },
+    {
+      "name": "Decorative Bowl",
+      "price": 32.99,
+      "image": "https://m.media-amazon.com/images/I/71oOnUWPsPL._AC_UF894,1000_QL80_.jpg",
+      "description": "Hand-painted ceramic decorative bowl"
+    }
+  ]
+

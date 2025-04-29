@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Ipad",
+      "price": 49.99,
+      "img": "https://i.postimg.cc/GmWSvsY7/ipad.jpg",
+      "description": "Compact and powerful tablet, great for entertainment and productivity on the go."
+    },
+    {
+      "name": "Jeans",
+      "price": 41.99,
+      "img": "https://i.postimg.cc/4d5LCL0q/jeans.jpg",
+      "description": "Stylish and comfortable denim jeans suitable for daily wear."
+    },
+    {
+      "name": "Lightening Decor",
+      "price": 90.99,
+      "img": "https://i.imgur.com/VbkSmTH.jpeg",
+      "description": "Modern lighting decor to brighten up and elevate your room's ambiance."
+    },
+    {
+      "name": "Book",
+      "price": 10.99,
+      "img": "https://i.postimg.cc/bvP9z01h/book.jpg",
+      "description": "A bestselling book to feed your imagination and curiosity."
+    }
+  ]
+  
