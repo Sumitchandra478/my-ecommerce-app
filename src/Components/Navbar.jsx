@@ -3,7 +3,7 @@ import { NavLink,useNavigate } from 'react-router-dom';
 import { useDispatch,useSelector } from 'react-redux';
 import { togglePopup,searchedItem } from '../ItemSlice/ItemsSlice';
 import Mycarousel from './carousel'; 
-import '../styles/navbar.css'; 
+import '../styles/Navbar.css'; 
 import allItems from '../JSONFILES/AllAtOnePlace.json'
 
 

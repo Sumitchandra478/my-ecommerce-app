@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../styles/shopbycategory.module.css';
+import styles from '../styles/shopByCategory.module.css';
 import { NavLink } from 'react-router-dom';
 
 function Shopbycategory() {
