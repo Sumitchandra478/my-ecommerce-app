@@ -19,12 +19,10 @@ import { db, auth } from './FireBase Firestore/initialsetup'; // Ensure this pat
 import ItemsYouMayLike from './Components/itemsyoumaylike'
 import IndividualProduct from './Components/individualProduct'
 import Footer from './Components/footer'
-import { onSnapshot,collection } from 'firebase/firestore';
+
 
 function App() {
   const dispatch=useDispatch()
-  const user=useSelector(state=>state.quantityArray.userFromDispatch)
-  const username=user?.username
 
 //  useEffect(()=>{
 //   if(!username){
