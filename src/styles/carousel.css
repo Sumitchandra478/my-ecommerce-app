@@ -73,7 +73,9 @@ font-weight: bold;
   justify-content: center;
   align-items: center;
   flex-direction: column;
- top:17%;
+ top:21%;
+ z-index:40;
+ /* border:2px solid red; */
   
 }
 .liveSale{
@@ -88,7 +90,7 @@ font-weight: bold;
  animation:fadein 1s ease-in-out infinite alternate;
  text-transform: uppercase;
  border-radius:10px;
- top:3em;
+ top:2em;
 }
 
 @keyframes fadein{
@@ -107,7 +109,7 @@ font-weight: bold;
   background-color: goldenrod;
   animation:flyingBoth 8s ease-in-out infinite;
   position: absolute;
-  top:7em;
+  top:5em;
 }
 
 @keyframes flyingBoth {
